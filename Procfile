@@ -1,2 +1,1 @@
-web: python run.py
-worker: celery worker --loglevel=info
+web: gunicorn wikilegis.wsgi --worker-class gevent
