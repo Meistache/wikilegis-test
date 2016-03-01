@@ -1,0 +1,20 @@
+@charset "utf-8";
+.searchbox {
+	text-align: start;
+	float: left;
+	align-self: baseline;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	background: #FFFFFF;
+	width: 245px;
+	height: 30px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	width: 245px;
+	height: 30px;
+}
+.searchform {
+	
+}
