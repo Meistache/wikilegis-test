@@ -1,1 +1,1 @@
-web: gunicorn wikilegis.wsgi --worker-class gevent
+web: gunicorn wikilegis.wsgi
