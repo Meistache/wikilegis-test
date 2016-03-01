@@ -1,1 +1,1 @@
-web: gunicorn wikilegis.wsgi:app
+web: gunicorn wikilegis:app
