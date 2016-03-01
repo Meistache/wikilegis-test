@@ -1,1 +1,1 @@
-web: .\flask\Scripts\python.exe run.py
+web: ./flask/Scripts/python run.py
