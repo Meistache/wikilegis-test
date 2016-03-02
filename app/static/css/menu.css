@@ -22,7 +22,7 @@
 }
 .headertext {
 	float: left;
-	margin: 38px inherit;
+	margin: 38px auto;
 	width: 132px;
 	height: 18px;
 	font-family: "Fjalla One", sans-serif;
@@ -33,20 +33,9 @@
 .headertext:hover{
 	color: rgb(137, 188, 140);
 }
-.triangle {
-	width: 14px;
-	height: 14px;
-	font-family: Arial;
-	color: #ffffff;
-	font-size: 18px;
-	font-weight: 900;
-	float: left;
-    margin: 34px auto;
-}
 .elogo {
 	width: 23px;
 	height: 23px;
 	float: left;
     margin: 34px 20px auto;
-}
 }
